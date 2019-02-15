@@ -1,3 +1,8 @@
+## Personal modification of PyBrain from python2 to python3
+
+
+
+
 PyBrain -- the Python Machine Learning Library
 ===============================================
 
